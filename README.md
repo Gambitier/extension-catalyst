@@ -1,4 +1,4 @@
-# gambitier.extension-catalyst README
+# gambitier.extension-catalyst
 
 Streamline your development environment with Extension Catalyst — a smart tool designed to manage and enhance your VSCode extensions. Enable recommended extensions for your workspace and keep your setup optimized with minimal effort.
 
