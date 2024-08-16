@@ -2,6 +2,8 @@
 
 Streamline your development environment with Extension Catalyst — a smart tool designed to manage and enhance your VSCode extensions. Enable recommended extensions for your workspace and keep your setup optimized with minimal effort.
 
+Why this tool? - there's a open [Feature Request: Enable/disable extensions from config file](https://github.com/microsoft/vscode/issues/40239)
+
 ## Features
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
